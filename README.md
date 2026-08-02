@@ -1,33 +1,49 @@
 # 🐍 Daily Python Practice
+A collection of Python exercises and mini-solutions written for daily practice. This project focuses on strengthening core fundamentals — loops, data structures, functions, and problem-solving logic.
 
-A growing collection of Python exercises, mini-problems, and solutions written 
-as part of a daily practice routine — built to strengthen core programming 
-fundamentals and problem-solving speed over time.
+## 📸 Preview
+> Add a screenshot or sample output here.
 
----
+## ✨ Features
+- Beginner to intermediate level problems
+- Covers variables, loops, functions, OOP
+- One file per problem/topic
+- Clean, commented code
 
-## 🎯 Purpose
+## 🛠️ Built With
+- Python 3
 
-Consistency beats intensity. This repo exists to:
-- Build a daily coding habit (green GitHub graph = proof of work)
-- Reinforce Python fundamentals through repetition
-- Track growth over time — from beginner-level scripts to more advanced logic
-- Serve as a personal reference for patterns and techniques I've already solved
+## 📂 Project Structure
+## 💻 Getting Started
+1. Clone the repository.
+```bash
+git clone https://github.com/diro25/daily-python-practice.git
+```
+2. Navigate to the project folder.
+```bash
+cd daily-python-practice
+```
+3. Run any file.
+```bash
+python day01_variables.py
+```
 
----
+## 📚 What I Learned
+During this project I practiced:
+- Python fundamentals and syntax
+- Writing clean, reusable functions
+- Basic OOP concepts
+- Problem-solving and debugging
 
-## 🧠 What You'll Find Here
+## 🎯 Future Improvements
+- Add more advanced algorithm challenges
+- Organize problems by difficulty/topic
+- Add unit tests for solutions
 
-| Category            | Examples                                      |
-|----------------------|------------------------------------------------|
-| Basics               | Variables, loops, conditionals, I/O            |
-| Data structures       | Lists, dicts, sets, tuples, strings            |
-| Functions             | Recursion, higher-order functions, scope       |
-| OOP                    | Classes, inheritance, encapsulation            |
-| Problem solving        | Small algorithmic challenges                   |
+## 👨‍💻 Author
+**Diriba Adugna**
+- GitHub: https://github.com/diro25
+- LinkedIn: https://www.linkedin.com/in/diriba-adugna/
 
-*(This table will grow as the repo grows — not every category may be present yet.)*
-
----
-
-## 📂 Repository Structure
+## 📄 License
+This project is open source and available under the **MIT License**.
