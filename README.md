@@ -37,7 +37,7 @@ During this project I practiced:
 
 ## 🎯 Future Improvements
 - Add more advanced algorithm challenges
-- Organize problems by difficulty/topic
+- Organize problems by difficulty/topic and
 - Add unit tests for solutions
 
 ## 👨‍💻 Author
